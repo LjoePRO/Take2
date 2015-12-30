@@ -1,4 +1,3 @@
-
 // Zack's Bitchin Class Demo
 public class Shape {
 
@@ -6,12 +5,12 @@ public class Shape {
     public String name;
 
     // This is called a Constructor
-    public ClassDemo(String name) {
+    public Shape(String name) {
         // We initialize the class here.
         this.name = name;
     }
-    
-    // This is called a method. 
+
+    // This is called a method.
     public String toString() {
         return "Shape: " + name;
     }
