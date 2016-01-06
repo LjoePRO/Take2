@@ -9,6 +9,7 @@ public class Shape {
         // We initialize the class here.
         this.name = name;
     }
+    //Test
 
     // This is called a method.
     public String toString() {
